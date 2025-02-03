@@ -7,7 +7,7 @@ public class HelloWorld {
 		System.out.println("Howdy GitHub project!!");
 		System.out.println("WHY WAS LUKA DONCIC TRADED?!");
 		System.out.println("Programmer 2 did this.");
-		System.out.println("Programmer 1 did this.");
+		System.out.println("Programmer one did this.");
 	}
 
 }
